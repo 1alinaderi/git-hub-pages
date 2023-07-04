@@ -1,0 +1,203 @@
+/* dark version css start */
+body {
+  background-color: #ffffff;
+}
+h1, h2, h3, h4, h5, h6,
+.icon-item2__content .title,
+.pick-lottery-package .title,
+.client-wrapper__title {
+  color: #333745;
+}
+p, li, span,
+.section-header p,
+.winner-tab-nav li a span,
+a,
+.contest-wrapper .contest-filter-wrapper .nice-select .current,
+.contest-wrapper .rang-slider .caption,
+.contest-wrapper .rang-slider .amount-wrapper input,
+.contest-wrapper .rang-slider .amount-wrapper .min-amount,
+.contest-wrapper .contest-search-form input,
+.winner-stat-wrapper__title {
+  color: #333745cc;
+} 
+.hero__title,
+.play-card__title,
+.contest-card__thumb .contest-num .number,
+.contest-card__name,
+.winner-slide-item .winner-content .winner-name,
+.number-check-wrapper .title,
+.winner-card__content .content-top .left .title,
+.feature-card__content .feature-title,
+.testimonial-single__content .client-name,
+.support-card__title,
+.contest-card__thumb .action-icon,
+.header__top .left a,
+.header__top .right .user__btn,
+.next-draw-area .left .title,
+.page-list li a,
+.winner-tab-nav li a span,
+.contest-card__content .right p,
+.contest-card__meta li span,
+.contest-card__meta li i,
+.contest-card__meta li p,
+.clock-wrapper .clock div p,
+.contest-cart__right .contest-name,
+.contest-cart *,
+.contest-sidebar .ticket-amount p,
+.lottery-wrapper p,
+.buy-lottery-ticket .sub-total-price p,
+.buy-lottery-ticket .sub-total-price span,
+.lottery-wrapper .action-header .left ul li a,
+.copy-right-text,
+.winner-details-wrapper .body .title,
+.number-check-wrapper p,
+.winner-card__content .content-bottom .number-list-wrapper p,
+.winner-card__content .content-top p,
+.header__top .left .language .nice-select .current,
+.about-wrapper__content p,
+.affiliate-single-wrapper .section-title,
+.affiliate-single-wrapper p,
+.play-card__content p,
+.cmn-accordion p,
+.upcoming-draw-wrapper .title,
+.user-card__name,
+.user-action-list li a,
+.past-draw-wrapper .title,
+.user-info-card__title,
+.transaction-balance-wrapper .transaction-balance .balance,
+.all-transaction__header .title,
+.all-transaction table td span,
+.referral-link-wrapper .title,
+.referral-crad__content .number,
+.blog-card__title,
+.blog-card__meta li span,
+.blog-card__footer .left span,
+.sidebar .widget__title,
+.small-post__title,
+.blog-single__title,
+.blog-single__body .title,
+.blog-single__body p,
+.cart-wrapper__title,
+.ticket-wrapper__header .title,
+.checkout-wrapper__header .title,
+.checkout-wrapper__body .caption,
+.checkout-form-area .top .left *,
+.checkout-wrapper__header *,
+.checkout-form-area .personal-details .title,
+.checkout-form-area .payment-details .title,
+.payment-form__title,
+.checkout-form-area .info-text,
+.faq-top-wrapper .section-title,
+.faq-top-wrapper p,
+.contact-form-wrapper .title,
+.social-card__content .counter-amount,
+.account-form-area .title,
+.account-form-area p,
+.account-form-area .social-link-list li a,
+.overview-card__content p,
+.next-draw-area .left p {
+  color: #ffffff;
+}
+.btn-border {
+  border-color: #b35ce1;
+  color: #b35ce1;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+}
+.btn-border:hover {
+  background-color: #b35ce1;
+  color: #ffffff;
+}
+.overview-section::before {
+  background-color: #b35ce1;
+}
+.support-card__content .btn-border {
+  color: #c4cbf9;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+.sidebar .category-list li a span {
+  color: #c4cbf9;
+}
+.footer-section {
+  background-color: transparent;
+}
+.footer-section::before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #2d0865;
+  -webkit-clip-path: ellipse(62% 75% at 50% 75%);
+  clip-path: ellipse(62% 75% at 50% 75%);
+  z-index: -1;
+}
+.play-elements {
+  top: 120px;
+}
+.play-elements img {
+  width: 80%;
+}
+.overview-section .map-el {
+  opacity: 0.5;
+}
+.hero.style--three {
+  background-color: #0f0233;
+  padding-bottom: 405px;
+}
+.next-draw-area {
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.contest-sidebar .social-links li a {
+  color: #777777;
+  border-color: #b1b1b1;
+}
+.contest-sidebar .social-links li a:hover {
+  border-color: transparent;
+  color: #ffffff;
+}
+.contest-details-content .contest-description  {
+  border-color: #c7c7c7;
+}
+.buy-lottery-ticket {
+  background-color: #0f0233;
+}
+.blog-single__body,
+.header.menu-fixed .header__bottom {
+  background-color: #683df5
+}
+.latest-winner-section .el-1, .latest-winner-section .el-2, .latest-winner-section .el-3 {
+  opacity: 0.4;
+}
+
+.winner-tab-nav .nav-item .nav-link span {
+  color: #4b4b4b;
+}
+
+.overview-section [class*=obj-] {
+  opacity: 0.3;
+}
+
+.contest-wrapper .winner-tab-nav .nav-item .nav-link span {
+  color: #fff;
+}
+
+.feature-card.style--two .feature-card__icon,
+.work-card__icon {
+  background-color: #1705431a;
+  border: 2px solid #9a9a9a33;
+}
+
+.buy-btn-wrapper span {
+  color: #363636;
+}
+
+/* dark version css end */
